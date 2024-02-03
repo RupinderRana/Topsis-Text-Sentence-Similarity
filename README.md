@@ -1,5 +1,8 @@
 # Topsis-Text-Sentence-Similarity(102117128)
 
+  <img width="851" alt="result_final" src="https://github.com/RupinderRana/Topsis-Text-Sentence-Similarity/assets/98392235/3837161f-71fb-4fef-a2f4-cd620119d1f3">
+
+
 ## Choosing models
 ### I selected following pre-Trained models from hugging face: 
   *  "facebook/bart-base",
@@ -34,8 +37,6 @@
 * Calculate the TOPSIS scores for each model.
 * Rank models based on their TOPSIS scores in descending order.
 * Save the ranked results to a CSV file named "topsis_results.csv".
-
-  <img width="851" alt="result_final" src="https://github.com/RupinderRana/Topsis-Text-Sentence-Similarity/assets/98392235/3837161f-71fb-4fef-a2f4-cd620119d1f3">
 
 
 ### I have selected "sentence-transformers/paraphrase-MiniLM-L6-v2" as best pre-trained model because of highest TOPSIS-Score (1.78760890209212)
