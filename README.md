@@ -35,5 +35,5 @@
 * Rank models based on their TOPSIS scores in descending order.
 * Save the ranked results to a CSV file named "topsis_results.csv".
 
-### We have selected "sentence-transformers/paraphrase-MiniLM-L6-v2" as best pre-trained because of highest TOPSIS-Score (1.78760890209212)
+### I have selected "sentence-transformers/paraphrase-MiniLM-L6-v2" as best pre-trained because of highest TOPSIS-Score (1.78760890209212)
   
